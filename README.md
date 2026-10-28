@@ -1,0 +1,1 @@
+# javaa-all-practicals
